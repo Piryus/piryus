@@ -1,5 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm <a href="https://legend.re">Emile</a> 👋</h1>
+  <h3>💻 Full Stack Software Engineer</h3>
 </div>
 
 <!--
