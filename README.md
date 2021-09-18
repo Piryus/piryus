@@ -1,7 +1,12 @@
-<div align="center">
-  <h1>Hi there, I'm <a href="https://legend.re">Emile</a> 👋</h1>
-  <h3>💻 Full Stack Software Engineer</h3>
-</div>
+<h2>👨‍💻 About me</h2>
+<p>Hi there, I'm <a href="https://legend.re">Emile</a> 👋</p>
+<p>I am a Software Engineer, curently living in Paris and working at TheFork (a TripAdvisor company). I'm passionate about learning and sharing my knownledge with others. I'm also a big follower of tech news, especially startups and the french ecosystem <a href='https://lafrenchtech.com/fr/'>La French Tech</a>, I'm always up to talk about the latest trending startups!</p>
+
+<h2>📫 Where to find me</h2>
+
+<a href="https://www.linkedin.com/in/emile-legendre/"><img src="/assets/icons/linkedin.png" width="32"/></a>
+
+You can also visit <a href="https://legend.re">legend.re</a> to know more about me!
 
 <!--
 **Piryus/piryus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
