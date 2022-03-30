@@ -1,6 +1,6 @@
 <h2>👨‍💻 About me</h2>
 <p>Hi there, I'm <a href="https://legend.re">Emile</a> 👋</p>
-<p>I am a Software Engineer, curently living in Paris and working at TheFork (a TripAdvisor company). I'm passionate about learning and sharing my knowledge with others. I'm also a big follower of tech news, especially startups and the french ecosystem <a href='https://lafrenchtech.com/fr/'>La French Tech</a>, I'm always up to talk about the latest trending startups!</p>
+<p>I am a Software Engineer, currently living in Paris and working at TheFork (a TripAdvisor company). I'm passionate about learning and sharing my knowledge with others. I'm also a big follower of tech news, especially startups and the french ecosystem <a href='https://lafrenchtech.com/fr/'>La French Tech</a>, I'm always up to talk about the latest trending startups!</p>
 
 <h2>📫 Where to find me</h2>
 
