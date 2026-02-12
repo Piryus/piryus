@@ -8,6 +8,6 @@ When I'm not coding, you'll probably find me nerding out about startups and tech
 
 ### Let's connect
 
-[![LinkedIn](assets/icons/linkedin.png)](https://www.linkedin.com/in/emile-legendre/)
+<a href="https://www.linkedin.com/in/emile-legendre/"><img src="assets/icons/linkedin.png" width="24"/></a>
 &nbsp;&nbsp;
 [legend.re](https://legend.re) · [emile@legend.re](mailto:emile@legend.re)
