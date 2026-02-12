@@ -1,24 +1,13 @@
-<h2>👨‍💻 About me</h2>
-<p>Hi there, I'm <a href="https://legend.re">Emile</a> 👋</p>
-<p>I am a Software Engineer, currently living in Paris and working at TheFork (a TripAdvisor company). I'm passionate about learning and sharing my knowledge with others. I'm also a big follower of tech news, especially startups and the french ecosystem <a href='https://lafrenchtech.com/fr/'>La French Tech</a>, I'm always up to talk about the latest trending startups!</p>
+# Hey, I'm Emile 👋
 
-<h2>📫 Where to find me</h2>
+Freelance Software Engineer based in Berlin.
 
-<a href="https://www.linkedin.com/in/emile-legendre/"><img src="/assets/icons/linkedin.png" width="32"/></a>
+I like building things that work well — lately I've been deep into AI/LLM tooling, but I'm equally happy wiring up APIs, optimizing systems, or just making something that didn't exist before.
 
-You can also visit <a href="https://legend.re">legend.re</a> to know more about me!
+When I'm not coding, you'll probably find me nerding out about startups and tech news.
 
-<!--
-**Piryus/piryus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Let's connect
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](assets/icons/linkedin.png)](https://www.linkedin.com/in/emile-legendre/)
+&nbsp;&nbsp;
+[legend.re](https://legend.re) · [emile@legend.re](mailto:emile@legend.re)
