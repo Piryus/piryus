@@ -12,6 +12,7 @@
 
 ## Projects
 
+- 🩹 **[Rebound](https://github.com/Piryus/rebound)** — Track how an injury feels, body and mind. A private, local-first recovery companion: a daily check-in, a 0–100 Body & Spirit Score, and a weather-style calendar. Expo / React Native · **[rebound.legend.re](https://rebound.legend.re)**
 - 🚂 **[zug](https://github.com/Piryus/zug)** — Search European trains from the command line. 8 providers (DB, Trenitalia, Renfe, SNCF, OBB, SBB, iRail, Rejseplanen), prices, MCP server for Claude.
 - ✏️ **[inku](https://github.com/Piryus/inku)** — The cleanest markdown editor. Electron + CodeMirror 6 + React + SQLite.
 
